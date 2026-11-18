@@ -1,6 +1,6 @@
 [project]
 name = "khodro45-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "Unofficial read-only MCP server for Khodro45 (خودرو۴۵, khodro45.com), the Iranian used-car marketplace: listings, inspection reports, price estimate, sale prices."
 readme = "README.md"
 license = "PolyForm-Noncommercial-1.0.0"
