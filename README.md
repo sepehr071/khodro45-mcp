@@ -85,10 +85,6 @@ Real answer (18 Nov 2026): `k45_price_estimate(trim_id=1849, year=1396, km=15000
 - The overall "health score" in `k45_inspection` is computed from the section scores (it is not in the API); it matched the page on the cars checked.
 - Booking, selling, login and agent contact details are not covered. Khodro45 answered both Iranian and foreign networks in testing; if yours is blocked, set `KHODRO45_MCP_PROXY`.
 
-## How it works
-
-Khodro45 has no public API documentation. The endpoints were mapped by watching khodro45.com in Chrome, and every tool was then checked in Chrome against the real rendered pages (price wizard, listings, listing pages, inspection reports, cities, brands) on 18 Nov 2026. The server calls those same public endpoints through a Chrome-impersonating HTTP client, with a short cache and at most two requests at a time.
-
 ## فارسی
 
 <div dir="rtl">
