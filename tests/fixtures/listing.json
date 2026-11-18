@@ -1,0 +1,115 @@
+{
+ "count": 656,
+ "next": "http://khodro45.com/api/v2/car_listing/?brand_ids=100&limit=2&offset=2",
+ "previous": null,
+ "results": [
+  {
+   "slug": "71MEJ8",
+   "active": true,
+   "guaranteed": false,
+   "immediate_delivery": false,
+   "price_type": 2,
+   "price": 3019500000,
+   "final_price": 3081500000,
+   "has_installment": true,
+   "views": 49,
+   "car_properties": {
+    "brand": {
+     "title": "پژو",
+     "title_en": "Peugeot",
+     "seo_slug": "peugeot"
+    },
+    "model": {
+     "title": "207",
+     "title_en": "207",
+     "seo_slug": "peugeot-207"
+    },
+    "option": "ارتقا یافته",
+    "trim": "پانوراما دنده‌ای TU5",
+    "year": "1403"
+   },
+   "city": {
+    "title": "تهران",
+    "title_en": "Tehran"
+   },
+   "branch": null,
+   "car_specifications": {
+    "document": null,
+    "klm": 10443,
+    "is_klm_matched": null
+   },
+   "identifier": 64762,
+   "created_time": "2026-11-18T11:00:15.908458+03:30",
+   "fmp_tags": [
+    {
+     "id": 6,
+     "title": "شاسی پلمپ"
+    },
+    {
+     "id": 4,
+     "title": "کم کارکرد"
+    },
+    {
+     "id": 7,
+     "title": "سند تک برگ"
+    },
+    {
+     "id": 2,
+     "title": "خرید اعتباری"
+    }
+   ]
+  },
+  {
+   "slug": "KKWRUA",
+   "active": true,
+   "guaranteed": false,
+   "immediate_delivery": false,
+   "price_type": 2,
+   "price": 1584000000,
+   "final_price": 1616000000,
+   "has_installment": false,
+   "views": 39,
+   "car_properties": {
+    "brand": {
+     "title": "پژو",
+     "title_en": "Peugeot",
+     "seo_slug": "peugeot"
+    },
+    "model": {
+     "title": "206",
+     "title_en": "206",
+     "seo_slug": "peugeot-206"
+    },
+    "option": "آپشن استاندارد",
+    "trim": "تیپ 5",
+    "year": "1396"
+   },
+   "city": {
+    "title": "تهران",
+    "title_en": "Tehran"
+   },
+   "branch": null,
+   "car_specifications": {
+    "document": null,
+    "klm": 119265,
+    "is_klm_matched": null
+   },
+   "identifier": 64759,
+   "created_time": "2026-11-18T11:00:01.687662+03:30",
+   "fmp_tags": [
+    {
+     "id": 6,
+     "title": "شاسی پلمپ"
+    },
+    {
+     "id": 4,
+     "title": "کم کارکرد"
+    },
+    {
+     "id": 2,
+     "title": "خرید اعتباری"
+    }
+   ]
+  }
+ ]
+}

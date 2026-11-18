@@ -1,0 +1,126 @@
+{
+ "slug": "71MEJ8",
+ "active": true,
+ "delivery_date": null,
+ "created_time": "2026-11-18T11:00:15.908458+03:30",
+ "guaranteed": false,
+ "views": 49,
+ "identifier": 64762,
+ "has_installment": true,
+ "immediate_delivery": false,
+ "price": 3019500000,
+ "original_service_cost": 84000000,
+ "service_cost": 62000000,
+ "final_price": 3081500000,
+ "car_properties": {
+  "brand": "پژو",
+  "model": "207",
+  "option": "ارتقا یافته",
+  "trim": "پانوراما دنده‌ای TU5",
+  "year": "1403"
+ },
+ "city": "تهران",
+ "city_id": 1,
+ "branch": null,
+ "car_specifications": {
+  "trim": "4",
+  "mileage": 10443,
+  "capacity": 5,
+  "doc_type": "6_dong",
+  "guidance": false,
+  "body_type": "hatchback",
+  "fuel_card": true,
+  "fuel_type": 1,
+  "guarantee": false,
+  "inherited": false,
+  "insurance": true,
+  "spare_key": true,
+  "body_color": 1,
+  "seat_colors": 2,
+  "sell_reason": "debt_or_mortgage",
+  "plate_number": "**-ص-***-60ایران",
+  "transmission": "manual",
+  "company_sheet": true,
+  "cabin_replaced": false,
+  "ownership_type": "private",
+  "engine_replaced": false,
+  "chassis_replaced": false,
+  "power_of_attorney": false,
+  "first_hand_document": true,
+  "seller_poa_objection": false,
+  "technical_inspection": false,
+  "dealer_to_dealer_sale": false,
+  "insurance_expire_date": "2027-10-18",
+  "additional_information": ".",
+  "bought_from_public_auction": false
+ },
+ "car_images": [
+  {
+   "image": {
+    "uuid": "190d8cb9-7cca-4eda-aaca-3224379f2834",
+    "file_type": {
+     "id": 1,
+     "title": "image"
+    },
+    "mime_type": "image/jpeg",
+    "url": "https://media.khodro45.com/public/image/190d8cb97cca4edaaaca3224379f2834_plate_allure"
+   },
+   "title": {
+    "title": "نمای جلو",
+    "view_order": 1,
+    "slug": "front"
+   }
+  },
+  {
+   "image": {
+    "uuid": "da5fde9d-66b0-45c8-a91f-10950814f58d",
+    "file_type": {
+     "id": 1,
+     "title": "image"
+    },
+    "mime_type": "image/webp",
+    "url": "https://media.khodro45.com/public/image/da5fde9d66b045c8a91f10950814f58d_plate_allure"
+   },
+   "title": {
+    "title": "۳ رخ جلو راننده",
+    "view_order": 2,
+    "slug": "front-left-corner"
+   }
+  },
+  {
+   "image": {
+    "uuid": "15f9ed7e-6996-4f23-afa0-968f70ee6a7c",
+    "file_type": {
+     "id": 1,
+     "title": "image"
+    },
+    "mime_type": "image/webp",
+    "url": "https://media.khodro45.com/public/image/15f9ed7e69964f23afa0968f70ee6a7c_plate_allure"
+   },
+   "title": {
+    "title": "سمت راننده کامل",
+    "view_order": 5,
+    "slug": "left-side"
+   }
+  }
+ ],
+ "active_buy_request": null,
+ "fmp_tags": [
+  {
+   "id": 6,
+   "title": "شاسی پلمپ"
+  },
+  {
+   "id": 4,
+   "title": "کم کارکرد"
+  },
+  {
+   "id": 7,
+   "title": "سند تک برگ"
+  },
+  {
+   "id": 2,
+   "title": "خرید اعتباری"
+  }
+ ]
+}

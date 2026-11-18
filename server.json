@@ -1,0 +1,32 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.sepehr071/khodro45-mcp",
+  "title": "Khodro45 Used Cars",
+  "description": "Read-only Khodro45 (khodro45.com) Iran used cars: listings, inspection reports, price estimate.",
+  "repository": {
+    "url": "https://github.com/sepehr071/khodro45-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://github.com/sepehr071/khodro45-mcp",
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "registryBaseUrl": "https://pypi.org",
+      "identifier": "khodro45-mcp",
+      "version": "0.1.0",
+      "runtimeHint": "uvx",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "KHODRO45_MCP_PROXY",
+          "description": "Optional HTTP proxy URL for the Khodro45 requests; system proxy settings are ignored. Also accepts a comma-separated list: one is used until it gets blocked or fails to connect, then the next.",
+          "isRequired": false,
+          "isSecret": false
+        }
+      ]
+    }
+  ]
+}

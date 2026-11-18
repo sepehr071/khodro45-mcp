@@ -1,0 +1,106 @@
+[
+ {
+  "id": 599,
+  "brand_id": 100,
+  "title": "پارس",
+  "title_en": "Pars",
+  "seo_slug": "peugeot-pars",
+  "order": 1
+ },
+ {
+  "id": 598,
+  "brand_id": 100,
+  "title": "405",
+  "title_en": "405",
+  "seo_slug": "peugeot-405",
+  "order": 2
+ },
+ {
+  "id": 595,
+  "brand_id": 100,
+  "title": "206",
+  "title_en": "206",
+  "seo_slug": "peugeot-206",
+  "order": 3
+ },
+ {
+  "id": 597,
+  "brand_id": 100,
+  "title": "207",
+  "title_en": "207",
+  "seo_slug": "peugeot-207",
+  "order": 4
+ },
+ {
+  "id": 503,
+  "brand_id": 100,
+  "title": "206 SD",
+  "title_en": "206-SD",
+  "seo_slug": "peugeot-206sd",
+  "order": 12
+ },
+ {
+  "id": 1542,
+  "brand_id": 100,
+  "title": "روآ",
+  "title_en": "ROA",
+  "seo_slug": "peugeot-roa",
+  "order": 34
+ },
+ {
+  "id": 1543,
+  "brand_id": 100,
+  "title": "RD",
+  "title_en": "RD",
+  "seo_slug": "peugeot-rd",
+  "order": 90
+ },
+ {
+  "id": 910,
+  "brand_id": 100,
+  "title": "207 SD",
+  "title_en": "207 SD",
+  "seo_slug": "peugeot-207sd",
+  "order": 109
+ },
+ {
+  "id": 1544,
+  "brand_id": 100,
+  "title": "RDI",
+  "title_en": "RDI",
+  "seo_slug": "peugeot-rdi",
+  "order": 110
+ },
+ {
+  "id": 908,
+  "brand_id": 100,
+  "title": "2008",
+  "title_en": "2008",
+  "seo_slug": "peugeot-2008",
+  "order": 121
+ },
+ {
+  "id": 592,
+  "brand_id": 100,
+  "title": "407",
+  "title_en": "407",
+  "seo_slug": "peugeot-407",
+  "order": 176
+ },
+ {
+  "id": 593,
+  "brand_id": 100,
+  "title": "508",
+  "title_en": "508",
+  "seo_slug": "peugeot-508",
+  "order": 272
+ },
+ {
+  "id": 590,
+  "brand_id": 100,
+  "title": "301",
+  "title_en": "301",
+  "seo_slug": "peugeot-301",
+  "order": 297
+ }
+]

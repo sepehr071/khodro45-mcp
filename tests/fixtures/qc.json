@@ -1,0 +1,318 @@
+[
+ {
+  "name": "داخلی فنی",
+  "rate": null,
+  "slug": "technical_interior",
+  "components": [],
+  "segment_type": 2,
+  "segment_type_text": "عیوب"
+ },
+ {
+  "name": "ویدیو ها",
+  "rate": null,
+  "slug": "videos",
+  "components": [],
+  "segment_type": 2,
+  "segment_type_text": "عیوب"
+ },
+ {
+  "name": "بدنه و لاستیک",
+  "rate": 4.9,
+  "slug": "inspection_body_and_tire",
+  "components": [
+   {
+    "name": "سقف",
+    "slug": "ceiling",
+    "order": 19,
+    "defects": [],
+    "category": "ceiling",
+    "available": true,
+    "is_option": false,
+    "description": "فضله سوختگی جزئی.",
+    "is_important": true,
+    "category_name": "سقف",
+    "is_guaranteed": true,
+    "is_highlighted": true,
+    "hide_for_dealer": false,
+    "default_description": ""
+   },
+   {
+    "name": "درب شاگرد جلو",
+    "slug": "front-right-door",
+    "order": 23,
+    "defects": [
+     {
+      "id": 393,
+      "note": "",
+      "defect": {
+       "icon": null,
+       "name": "پیچ آچار خوردگی",
+       "slug": "wrench-screw-corrosion"
+      },
+      "images": [],
+      "severity": 10,
+      "highlight": 0,
+      "coordinate": null,
+      "has_defect": true,
+      "severity_text": "نارنجی",
+      "highlight_text": "-",
+      "severity_color": "#FF9533"
+     }
+    ],
+    "category": "door",
+    "available": true,
+    "is_option": false,
+    "description": "",
+    "is_important": false,
+    "category_name": "درب",
+    "is_guaranteed": true,
+    "is_highlighted": true,
+    "hide_for_dealer": false,
+    "default_description": ""
+   },
+   {
+    "name": "درب شاگرد عقب",
+    "slug": "rear-right-door",
+    "order": 25,
+    "defects": [
+     {
+      "id": 55,
+      "note": "",
+      "defect": {
+       "icon": {
+        "url": "https://media.khodro45.com/public/image/f0644195032645d3a3233e39e8996f94",
+        "uuid": "f0644195-0326-45d3-a323-3e39e8996f94",
+        "file_type": {
+         "id": 1,
+         "title": "image"
+        },
+        "mime_type": "image/svg+xml"
+       },
+       "name": "صافکاری بدون رنگ",
+       "slug": "smoothing-without-paint"
+      },
+      "images": [
+       {
+        "url": "https://media.khodro45.com/public/image/80ac1f9051464fa187ab24fde4e58715_plate_allure",
+        "uuid": "80ac1f90-5146-4fa1-87ab-24fde4e58715",
+        "file_type": {
+         "id": 1,
+         "title": "image"
+        },
+        "mime_type": "image/jpeg"
+       }
+      ],
+      "severity": 10,
+      "highlight": 1,
+      "coordinate": [
+       51.85,
+       35.93
+      ],
+      "has_defect": true,
+      "severity_text": "نارنجی",
+      "highlight_text": "نمایش شماتیک",
+      "severity_color": "#FF9533"
+     }
+    ],
+    "category": "door",
+    "available": true,
+    "is_option": false,
+    "description": "",
+    "is_important": false,
+    "category_name": "درب",
+    "is_guaranteed": true,
+    "is_highlighted": true,
+    "hide_for_dealer": false,
+    "default_description": ""
+   },
+   {
+    "name": "گلگیر راننده جلو",
+    "slug": "front-left-fender",
+    "order": 26,
+    "defects": [
+     {
+      "id": 1006,
+      "note": "",
+      "defect": {
+       "icon": null,
+       "name": "لیسه گیری با بتونه",
+       "slug": "licking-with-putty"
+      },
+      "images": [
+       {
+        "url": "https://media.khodro45.com/public/image/42cd4512ee674ce3b2c9242525e495a4_plate_allure",
+        "uuid": "42cd4512-ee67-4ce3-b2c9-242525e495a4",
+        "file_type": {
+         "id": 1,
+         "title": "image"
+        },
+        "mime_type": "image/jpeg"
+       }
+      ],
+      "severity": 15,
+      "highlight": 0,
+      "coordinate": null,
+      "has_defect": true,
+      "severity_text": "قرمز",
+      "highlight_text": "-",
+      "severity_color": "#EF3B2E"
+     },
+     {
+      "id": 59,
+      "note": "همراه با پیچ آچارخوردگی.",
+      "defect": {
+       "icon": {
+        "url": "https://media.khodro45.com/public/image/f0644195032645d3a3233e39e8996f94",
+        "uuid": "f0644195-0326-45d3-a323-3e39e8996f94",
+        "file_type": {
+         "id": 1,
+         "title": "image"
+        },
+        "mime_type": "image/svg+xml"
+       },
+       "name": "صافکاری بدون رنگ",
+       "slug": "smoothing-without-paint"
+      },
+      "images": [
+       {
+        "url": "https://media.khodro45.com/public/image/1f011bae70ff40d59ccf26e93a11d0d8_plate_allure",
+        "uuid": "1f011bae-70ff-40d5-9ccf-26e93a11d0d8",
+        "file_type": {
+         "id": 1,
+         "title": "image"
+        },
+        "mime_type": "image/jpeg"
+       }
+      ],
+      "severity": 10,
+      "highlight": 1,
+      "coordinate": [
+       69.05,
+       48.54
+      ],
+      "has_defect": true,
+      "severity_text": "نارنجی",
+      "highlight_text": "نمایش شماتیک",
+      "severity_color": "#FF9533"
+     }
+    ],
+    "category": "fender",
+    "available": true,
+    "is_option": false,
+    "description": "",
+    "is_important": false,
+    "category_name": "گلگیر",
+    "is_guaranteed": true,
+    "is_highlighted": true,
+    "hide_for_dealer": false,
+    "default_description": ""
+   }
+  ],
+  "segment_type": 2,
+  "segment_type_text": "عیوب"
+ },
+ {
+  "name": "موتور",
+  "rate": 5,
+  "slug": "inspection_engine",
+  "components": [
+   {
+    "name": "عملکرد توربو",
+    "slug": "turbo-performance",
+    "order": 100,
+    "defects": [],
+    "category": "internal",
+    "available": true,
+    "is_option": false,
+    "description": "نرمال",
+    "is_important": false,
+    "category_name": "داخلی/ مونتاژ اکونومی",
+    "is_guaranteed": true,
+    "is_highlighted": false,
+    "hide_for_dealer": false,
+    "default_description": "نرمال"
+   }
+  ],
+  "segment_type": 2,
+  "segment_type_text": "عیوب"
+ },
+ {
+  "name": "برقی و داخلی",
+  "rate": 5,
+  "slug": "inspection_electrical_system",
+  "components": [
+   {
+    "name": "نمد سقف",
+    "slug": "roof-lining",
+    "order": 10,
+    "defects": [],
+    "category": "ceiling",
+    "available": true,
+    "is_option": false,
+    "description": "سالم",
+    "is_important": false,
+    "category_name": "سقف",
+    "is_guaranteed": true,
+    "is_highlighted": false,
+    "hide_for_dealer": true,
+    "default_description": "سالم"
+   }
+  ],
+  "segment_type": 2,
+  "segment_type_text": "عیوب"
+ },
+ {
+  "name": "سیستم تعلیق",
+  "rate": 5,
+  "slug": "inspection_suspension",
+  "components": [
+   {
+    "name": "جعبه فرمان",
+    "slug": "steering-gear-box",
+    "order": 10,
+    "defects": [],
+    "category": "suspension",
+    "available": true,
+    "is_option": false,
+    "description": "سالم است",
+    "is_important": false,
+    "category_name": "سیستم تعلیق",
+    "is_guaranteed": true,
+    "is_highlighted": false,
+    "hide_for_dealer": false,
+    "default_description": "سالم است"
+   }
+  ],
+  "segment_type": 2,
+  "segment_type_text": "عیوب"
+ },
+ {
+  "name": "تهویه مطبوع",
+  "rate": 5,
+  "slug": "inspection_air_conditioning",
+  "components": [],
+  "segment_type": 2,
+  "segment_type_text": "عیوب"
+ },
+ {
+  "name": "نکات مثبت",
+  "rate": null,
+  "slug": "inspection_positive_points",
+  "components": [
+   {
+    "name": "گارد سپر جلو",
+    "available": true,
+    "defects": [],
+    "description": ""
+   },
+   {
+    "name": "رکاب اضافی",
+    "available": false,
+    "defects": [],
+    "description": ""
+   }
+  ],
+  "segment_type": 2,
+  "segment_type_text": "عیوب"
+ }
+]

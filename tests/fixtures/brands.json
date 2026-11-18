@@ -1,0 +1,23 @@
+[
+ {
+  "id": 100,
+  "title": "پژو",
+  "title_en": "Peugeot",
+  "order": 102,
+  "seo_slug": "peugeot"
+ },
+ {
+  "id": 141,
+  "title": "سمند",
+  "title_en": "Samand",
+  "order": 96,
+  "seo_slug": "samand"
+ },
+ {
+  "id": 120,
+  "title": "کیا",
+  "title_en": "Kia",
+  "order": 79,
+  "seo_slug": "kia"
+ }
+]

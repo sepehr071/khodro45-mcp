@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "title": "تهران",
+  "title_en": "Tehran",
+  "has_branch": true,
+  "branch_count": 39,
+  "covered_city_branch_count": 7,
+  "order": 1,
+  "modified_time": "2025-03-04T17:28:58.249409+03:30",
+  "is_covered_city": true,
+  "province": {
+   "id": 8,
+   "title": "تهران",
+   "title_en": "Tehran"
+  },
+  "longitude": "51.38960000",
+  "latitude": "35.68925200"
+ },
+ {
+  "id": 69,
+  "title": "شاهرود",
+  "title_en": "Shahrud",
+  "has_branch": true,
+  "branch_count": 1,
+  "covered_city_branch_count": 0,
+  "order": 21,
+  "modified_time": "2025-12-30T14:58:22.011270+03:30",
+  "is_covered_city": false,
+  "province": {
+   "id": 15,
+   "title": "سمنان",
+   "title_en": "Semnan"
+  },
+  "longitude": "54.96500000",
+  "latitude": "36.41950000"
+ }
+]

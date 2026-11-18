@@ -1,0 +1,86 @@
+[
+ {
+  "slug": 1,
+  "name": "سفید",
+  "name_en": "White",
+  "color": "#ffffff"
+ },
+ {
+  "slug": 2,
+  "name": "مشکی",
+  "name_en": "Black",
+  "color": "#000000"
+ },
+ {
+  "slug": 4,
+  "name": "نقره ای",
+  "name_en": "Silver",
+  "color": "#D9DFE7"
+ },
+ {
+  "slug": 3,
+  "name": "خاکستری",
+  "name_en": "Grey",
+  "color": "#5A697A"
+ },
+ {
+  "slug": 5,
+  "name": "آبی",
+  "name_en": "Blue",
+  "color": "#005288"
+ },
+ {
+  "slug": 6,
+  "name": "قرمز",
+  "name_en": "Red",
+  "color": "#EF3B2E"
+ },
+ {
+  "slug": 8,
+  "name": "سبز",
+  "name_en": "Green",
+  "color": "#3C835E"
+ },
+ {
+  "slug": 13,
+  "name": "زرد",
+  "name_en": "Yellow",
+  "color": "#FFCC33"
+ },
+ {
+  "slug": 9,
+  "name": "نارنجی",
+  "name_en": "Orange",
+  "color": "#FF9533"
+ },
+ {
+  "slug": 10,
+  "name": "بژ",
+  "name_en": "Beige",
+  "color": "#FADC97"
+ },
+ {
+  "slug": 7,
+  "name": "قهوه ای",
+  "name_en": "Brown",
+  "color": "#592F04"
+ },
+ {
+  "slug": 15,
+  "name": "زغالی",
+  "name_en": "Coal",
+  "color": "#495057"
+ },
+ {
+  "slug": 16,
+  "name": "تیتانیوم",
+  "name_en": "Titanium",
+  "color": "#939DA5"
+ },
+ {
+  "slug": 20,
+  "name": "سایر",
+  "name_en": "Other",
+  "color": ""
+ }
+]
